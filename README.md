@@ -16,4 +16,5 @@ ofxGLSLSandbox is distributed under the MIT License.
 
 ## update 🍺
 shiyuugo  
-20181007 - add autoUpdate, autoMouse  etc...
+20181007 - add autoUpdate, autoMouse  etc...　([http://shugohirao.com/blog/350](http://shugohirao.com/blog/350)).
+
